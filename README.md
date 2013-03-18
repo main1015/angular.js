@@ -16,6 +16,7 @@ it makes development fun!
 * API Docs: http://docs.angularjs.org/api
 * Developer Guide: http://docs.angularjs.org/guide
 * Contribution guidelines: http://docs.angularjs.org/misc/contribute
+* 中文文档:http://www.angularjs.cn
 
 Building AngularJS
 ---------
